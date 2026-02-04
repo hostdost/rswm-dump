@@ -1,0 +1,510 @@
+@font-face {
+  font-family: 'GothamHTFBook';
+  src:url('fonts/GothamHTFBook.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body{
+    font-family: 'GothamHTFBook', sans-serif;    
+}
+
+/*----------------*/
+
+
+.col.span_6.padding-out {
+    padding: 0;
+}
+
+
+.col{
+    margin: 0;
+}
+.banner img{
+    width: 100%;
+    max-width: 1365px;
+    margin: 0 auto;
+    padding-top: 85px;
+}
+.section1{
+    background-color: #f1f1f1;
+    margin: 0 auto;
+/*    padding-top: 80px;*/
+    padding-top:32px;
+    position: relative;
+    
+}
+.section1 .back-button {
+    position: absolute;
+    top: 30%;
+    left: -6%;
+    padding: 5px 10px;
+    color: #181763;
+    text-transform: uppercase;
+    background-color: #fff;
+    border: 1px solid #fff;
+    letter-spacing: 1px;
+    box-shadow: 2px 2px 2px #ccc;
+}
+
+.container1 {
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+}
+.container1 img{
+/*    max-width:262px;*/
+    width: 100%;
+    height: auto;
+   
+}
+.imgcontent{
+    text-align: center;
+    width: 100%;
+    padding-top: 20px;
+/*    padding-bottom: 80px;*/
+    padding-bottom: 42px;
+}
+.imgcontent h4{
+    padding-bottom: 15px;
+    text-align: center;
+}
+/*section 2,4,6,8 (open) */
+.section2{
+    margin: 11px 0;
+    position: relative;
+}
+.section1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.class1{
+    background-color: #181763;
+    max-width: 792px;
+    height: auto;
+/*    padding-right: 105px;*/
+}
+.class1 p{
+   text-align: right;
+    color: #fffffb;
+    
+}
+.para1 p{
+    font-size: 15px;
+    padding: 25% 4% 19% 10%;
+}
+.blue{
+    background-color: white;
+   max-width: 185px;
+    width: 100%;
+    float: right;
+    color: #181763;
+    position: relative;
+    top: 90px;
+    left: 40px;
+    text-align: center;
+    padding: 12px;
+    height: auto;
+    cursor: pointer;
+}
+.blue h3{
+    text-align: center;
+    
+    margin: 0 auto;
+/*    padding-bottom: 10px;*/
+
+}
+.section2 img{
+   max-width: 792px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+/*section 2,4,6,8 (close)*/
+
+/*section 1,3,5,7 (open)*/
+
+.section3 img{
+    max-width: 792px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.para2 p{
+    font-size: 15px;
+    padding: 25% 0% 17.1% 5%;
+}
+.glamitude h3{
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 5px;
+    padding-right: 22px;
+    padding-top: 5px;
+
+}
+.glamitude{
+    background-color: white;
+    max-width: 170px;
+    width: 100%;
+    float: left;
+    color: #903a7b;
+    position: relative;
+    top: 90px;
+    left: -40px;
+    text-align: center;
+    padding: 7px;
+   
+}
+.class2{
+    background-color: #903a7b;
+    width: 792px;
+    width: 100%;
+    height: auto;
+}
+.class2 p{
+   text-align: left;
+    color: #fffffb;
+    
+}
+.para2{
+    padding-left: 11px;
+    display: block;
+}
+/*section 1,3,5,7 (close)*/
+
+.section4{
+    margin: 11px 0;
+}
+
+.class3{
+    background-color: #372426;
+    max-width:792px;
+    width: 100%;
+    height: auto;
+
+}
+.class3 p{
+   text-align: right;
+    color: #fffffb;
+    
+}
+.para3 p{
+    font-size: 15px;
+    padding:25% 5% 19% 13%;
+}
+.thoughtful{
+    background-color: white;
+    float: right;
+    color: #372426;
+    position: relative;
+    top: 90px;
+    left: 40px;
+    text-align: center;
+    padding: 12px;
+    max-width: 185px;
+    width: 100%;
+    height: auto;
+}
+.thoughtful h3{
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 0;
+  
+
+}
+.section4 img{
+   max-width:792px;
+    width: 100%;
+    height:auto;
+    margin: 0 auto;
+    
+}
+
+.section5 img{
+  max-width: 792px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.para4 p{
+    font-size: 15px;
+    padding: 25% 0% 12.1% 5%;
+}
+.slowtravel h3{
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.slowtravel{
+    background-color: white;
+    width: 100%;
+    float: left;
+    color: #3c4767;
+    position: relative;
+    top: 90px;
+    left: -40px;
+    text-align: center;
+    padding: 7px;
+    height: auto;
+    max-width:187px;
+}
+.class4{
+    background-color: #3c4767;
+    max-width: 792px;
+    width: 100%;
+    height: 100%;
+}
+.class4 p{
+   text-align: left;
+    color: #fffffb;
+    
+}
+.para4{
+    padding-left: 11px;
+}
+
+.section6{
+    margin: 11px 0;
+}
+
+.class5{
+    background-color: #2e270d;
+    max-width: 792px;
+    width: 100%;
+}
+.class5 p{
+   text-align: right;
+    color: #fffffb;
+    
+}
+.para5 p{
+    font-size: 15px;
+    padding: 27% 5% 17% 10%;
+}
+.creativegenesis{
+    background-color: white;
+    max-width: 185px;
+    width: 100%;
+    float: right;
+    color: #2e270d;
+    position: relative;
+    top: 90px;
+    left: 52px;
+    text-align: center;
+    padding: 12px;
+    height: 40px;
+    
+}
+.creativegenesis h3{
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+
+}
+.section6 img{
+    width: 792px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+/*section 2,4,6,8 (close)*/
+
+/*section 1,3,5,7 (open)*/
+
+.section7 img{
+   max-width: 792px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.para6 p{
+    font-size: 15px;
+    padding: 30% 12% 14.6% 5%;
+}
+.darkopulence h3{
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 0;
+
+}
+.darkopulence {
+    background-color: white;
+    width: 100%;
+    float: left;
+    color: #111e2f;
+    position: relative;
+    top: 90px;
+    left: -40px;
+    text-align: center;
+    padding: 7px;
+    height: 39px;
+    width: 185px;
+    
+}
+.class6{
+    background-color: #111e2f;
+    max-width: 792px;
+    width: 100%;
+    height: auto;
+}
+.class6 p{
+   text-align: left;
+   color: #fffffb;
+    
+}
+.para6{
+    padding-left: 11px;
+}
+/*section 1,3,5,7 (close)*/
+
+/*section 2,4,6,8 (open) */
+.section8{
+    margin: 11px 0;
+}
+
+.class7{
+    background-color: #5197b1;
+    width: 792px;
+    width: 100%;
+    height: auto;
+    
+}
+.class7 p{
+   text-align: right;
+   color: #fffffb;
+    
+}
+.para7 p{
+    font-size: 15px;
+    padding: 35% 5% 16.1% 13%;
+}
+.softromance{
+    background-color: white;
+    width: 100%;
+    float: right;
+    color: #5197b1;
+    position: relative;
+    top: 90px;
+    left: 42px;
+    text-align: center;
+    padding: 12px;
+    max-width: 187px;
+    height: auto;
+}
+.softromance h3{
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 0;
+
+}
+.section8 img{
+   width: 792px;
+    width: 100%;
+    height: 486px;
+    margin: 0 auto;
+    
+}
+/*section 2,4,6,8 (close)*/
+
+
+
+@media only screen and (max-width:600px) {
+    img{
+        display: block;
+    }
+    
+.container1 img{
+        width: 100%;
+        padding:0 11px;
+    }
+    .class1 .blue{
+        position: relative;
+        top: 20px;
+        left: -120px;
+    } 
+    .para1 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    
+    .class2 .glamitude{
+        position: relative;
+        top: 20px;
+        left: 130px;
+    } 
+    .para2 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    
+    .class3 .thoughtful{
+        position: relative;
+        top: 20px;
+        left: -120px;
+    } 
+    .para3 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    .class4 .slowtravel{
+        position: relative;
+        top: 20px;
+        left: 130px;
+    } 
+    .para4 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    
+    .class5 .creativegenesis{
+        position: relative;
+        top: 20px;
+        left: -120px;
+    } 
+    .para5 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    .class6 .darkopulence{
+        position: relative;
+        top: 20px;
+        left: 130px;
+    } 
+    .para6 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    
+    .class7 .softromance{
+        position: relative;
+        top: 20px;
+        left: -120px;
+    } 
+    .para7 p{
+        font-size: 18px;
+        text-align: left;
+        padding: 25% 5% 12% 10%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+}
+

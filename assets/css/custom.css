@@ -1,0 +1,11 @@
+.mt-40{
+    margin-top: 40px;
+}
+.subtitle{
+    color: #cb9e50;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+.d-none{
+    display: none;
+}

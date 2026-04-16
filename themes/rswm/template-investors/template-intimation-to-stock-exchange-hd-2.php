@@ -321,13 +321,13 @@ $annualyear = get_terms('annual-year'); //,$args);
 
                                                                             </td>
                                                                         </tr>
-                                                                        <tr>
+                                                                        <!-- <tr>
                                                                             <td>Mr. Brij Mohan Sharma </td>
                                                                             <td>:</td>
                                                                             <td>Director
 
                                                                             </td>
-                                                                        </tr>
+                                                                        </tr> -->
                                                                         <tr>
                                                                             <td>Mr. Arun Kumar Churiwal </td>
                                                                             <td>:</td>
@@ -390,6 +390,11 @@ $annualyear = get_terms('annual-year'); //,$args);
                                                                         <tr>
                                                                             <td colspan="3"><b>CHANGE IN BOARD OF
                                                                                     DIRECTORS</b></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td colspan="3">Mr. Brij Mohan Sharma
+                                                                                resigned from the directorship of the
+                                                                                Company w.e.f 19th March 2026.</td>
                                                                         </tr>
                                                                         <tr>
                                                                             <td colspan="3">Mr. Brij Mohan Sharma
@@ -699,7 +704,7 @@ $annualyear = get_terms('annual-year'); //,$args);
                                             data-parent="#accordion">
                                             <div class="card-body">
                                                 <div class="accordian_Innercontent">
-                                                    <?php $term_children = array(443, 442, 440, 437, 427, 413, 404, 400, 392, 189, 184, 92, 93, 94, 95); ?>
+                                                    <?php $term_children = array(447, 446, 445, 443, 442, 440, 437, 427, 413, 404, 400, 392, 189, 184, 92, 93, 94, 95); ?>
                                                     <div class="main_child_div investorPresentation">
                                                         <?php foreach ($term_children as $termchild) { ?>
                                                             <?php $termchild1_terms = get_term_by('id', $termchild, $default_taxnomy); ?>

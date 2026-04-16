@@ -307,7 +307,7 @@ $annualyear = get_terms('annual-year'); //,$args);
                         </div>
 
                         <div class="service-details-text-wrapper section-space--bottom--50">
-                            <h2 class="title" id="2025">2025 - Media Coverage</h2>
+                            <h2 class="title" id="2026">2026 - Media Coverage</h2>
                             <div class="faq-wrapper">
                                 <div id="accordion">
                                     <!-- corporate announcements -->
@@ -385,6 +385,262 @@ $annualyear = get_terms('annual-year'); //,$args);
                                     <!-- related party transaction -->
                                     <?php //$disclosure_terms = get_term_by('id', 187, $default_taxnomy); 
                                     ?>
+                                    <!-- March 2026 -->
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <h5 class="mb-0">
+                                                <button style="color: #d5b66a;" class="btn btn-link"
+                                                    data-toggle="collapse" data-target="#collapseThree99999999999999"
+                                                    aria-expanded="false" aria-controls="collapseThree9999999999999">
+                                                    <?php echo 'March 2026'; ?> <span> <i class="ion-plus"></i>
+                                                        <i class="ion-minus"></i> </span>
+                                                </button>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree99999999999999" class="collapse"
+                                            aria-labelledby="headingThree99999999999" data-parent="#accordion">
+                                            <div class="card-body">
+                                                <ul class="compliances_responsive">
+                                                    <!-- Press Release Listings -->
+
+                                                    <div class="card">
+                                                        <div class="card-header">
+                                                            <h5 class="mb-0">
+                                                                <button class="btn btn-link collapsed">
+                                                                    <a target="_blank"
+                                                                        href="https://textilesphereindia.com/2026/03/31/weaving-financial-excellence-innovation-digital-transformation/">
+                                                                        Weaving Financial Excellence – Innovation &
+                                                                        Digital Transformation<br><i
+                                                                            class="publication"></i>
+                                                                        <publication>Textile Sphere India</publication>
+                                                                        <medium>[Medium: Online]</medium>
+                                                                        <date>30 March, 2026</date>
+                                                                    </a>
+                                                                </button>
+                                                            </h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card">
+                                                        <div class="card-header">
+                                                            <h5 class="mb-0">
+                                                                <button class="btn btn-link collapsed">
+                                                                    <a target="_blank"
+                                                                        href="https://textilevaluechain.in/turning-textile-waste-into-opportunity-the-role-of-circular-denim-in-shaping-future-ready-fibre-and-production-strategies">
+                                                                        Turning Textile Waste into Opportunity: The Role
+                                                                        of Circular Denim in Shaping Future-Ready Fibre
+                                                                        and Production
+                                                                        Strategies
+                                                                        <br><i class="publication"></i>
+                                                                        <publication>Textil Evaluechain</publication>
+                                                                        <medium>[Medium: Print ]</medium>
+                                                                        <date>30 March, 2026</date>
+                                                                    </a>
+                                                                </button>
+                                                            </h5>
+                                                        </div>
+                                                        <div class="card">
+                                                            <div class="card-header">
+                                                                <h5 class="mb-0">
+                                                                    <button class="btn btn-link collapsed">
+                                                                        <a target="_blank"
+                                                                            href="https://indiantextilejournal.com/rise-of-smart-mills/">
+                                                                            Rise of Smart Mills
+                                                                            <br><i class="publication"></i>
+                                                                            <publication>Indian Textile Journal
+                                                                            </publication>
+                                                                            <medium>[Medium: Online ]</medium>
+                                                                            <date>March 17, 2026</date>
+                                                                        </a>
+                                                                    </button>
+                                                                </h5>
+                                                            </div>
+                                                        </div>
+
+
+                                                    </div>
+
+
+                                                    <!-- Press Release Listings -->
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- March 2026-->
+                                    <!-- February 2026 -->
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <h5 class="mb-0">
+                                                <button style="color: #d5b66a;" class="btn btn-link"
+                                                    data-toggle="collapse" data-target="#collapseThree9999999999999"
+                                                    aria-expanded="false" aria-controls="collapseThree999999999999">
+                                                    <?php echo 'February 2026'; ?> <span> <i class="ion-plus"></i>
+                                                        <i class="ion-minus"></i> </span>
+                                                </button>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree9999999999999" class="collapse"
+                                            aria-labelledby="headingThree9999999999" data-parent="#accordion">
+                                            <div class="card-body">
+                                                <ul class="compliances_responsive">
+                                                    <!-- Press Release Listings -->
+
+                                                    <div class="card">
+                                                        <div class="card-header">
+                                                            <h5 class="mb-0">
+                                                                <button class="btn btn-link collapsed">
+                                                                    <a target="_blank"
+                                                                        href="https://economictimes.indiatimes.com/small-biz/trade/exports/insights/budget-2026-measures-to-strengthen-indias-global-manufacturing-ambitions-textile-industry/articleshow/127837895.cms">
+                                                                        Union Budget 2026<br><i class="publication"></i>
+                                                                        <publication>Economic Times</publication>
+                                                                        <medium>[Medium: Online]</medium>
+                                                                        <date>01 February, 2026</date>
+                                                                    </a>
+                                                                </button>
+                                                            </h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card">
+                                                        <div class="card-header">
+                                                            <h5 class="mb-0">
+                                                                <button class="btn btn-link collapsed">
+                                                                    <a target="_blank"
+                                                                        href="https://m.economictimes.com/news/economy/foreign-trade/tariff-shock-to-trade-dtente-how-indias-most-vulnerable-sectors-went-from-worries-to-cheers/amp_articleshow/127882623.cms/">
+                                                                        India Trade US deal
+                                                                        <br><i class="publication"></i>
+                                                                        <publication>Textile magazine</publication>
+                                                                        <medium>[Medium: Print ]</medium>
+                                                                        <date>03 February, 2026</date>
+                                                                    </a>
+                                                                </button>
+                                                            </h5>
+                                                        </div>
+                                                        <div class="card">
+                                                            <div class="card-header">
+                                                                <h5 class="mb-0">
+                                                                    <button class="btn btn-link collapsed">
+                                                                        <a target="_blank"
+                                                                            href="https://textilesphereindia.com/2026/02/03/indian-textile-industry-in-2025-key-learnings-and-the-road-ahead/">
+                                                                            Textile Sphere India feature
+                                                                            <br><i class="publication"></i>
+                                                                            <publication>Textile Sphere India
+                                                                            </publication>
+                                                                            <medium>[Medium: Online ]</medium>
+                                                                            <date>February 24, 2026</date>
+                                                                        </a>
+                                                                    </button>
+                                                                </h5>
+                                                            </div>
+                                                        </div>
+
+
+                                                    </div>
+
+
+                                                    <!-- Press Release Listings -->
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- February 2026-->
+                                    <!-- January 2026 -->
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <h5 class="mb-0">
+                                                <button style="color: #d5b66a;" class="btn btn-link"
+                                                    data-toggle="collapse" data-target="#collapseThree999999999999"
+                                                    aria-expanded="false" aria-controls="collapseThree99999999999">
+                                                    <?php echo 'January 2026'; //$disclosure_terms->name; 
+                                                    ?> <span> <i class="ion-plus"></i>
+                                                        <i class="ion-minus"></i> </span>
+                                                </button>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree999999999999" class="collapse"
+                                            aria-labelledby="headingThree999999999" data-parent="#accordion">
+                                            <div class="card-body">
+                                                <ul class="compliances_responsive">
+                                                    <!-- Press Release Listings -->
+
+                                                    <div class="card">
+                                                        <div class="card-header">
+                                                            <h5 class="mb-0">
+                                                                <button class="btn btn-link collapsed">
+                                                                    <a target="_blank"
+                                                                        href="https://www.indiantextilemagazine.in/rswm-accelerates-ai-powered-sustainability-transformation-with-greenstitch/">
+                                                                        RSWM accelerates AI-powered sustainability
+                                                                        transformation with GreenStitch<br><i
+                                                                            class="publication"></i>
+                                                                        <publication>PTI</publication>
+                                                                        <medium>[Medium: Online]</medium>
+                                                                        <date>05 January, 2026</date>
+                                                                    </a>
+                                                                </button>
+                                                            </h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card">
+                                                        <div class="card-header">
+                                                            <h5 class="mb-0">
+                                                                <button class="btn btn-link collapsed">
+                                                                    <a target="_blank"
+                                                                        href="https://autotexdigital.com/the-textile-magazine/#digital-january-2026-3/1/">
+                                                                        RSWM accelerates AIpowered sustainability
+                                                                        transformation with
+                                                                        GreenStitch
+                                                                        <br><i class="publication"></i>
+                                                                        <publication>Textile magazine</publication>
+                                                                        <medium>[Medium: Print ]</medium>
+                                                                        <date>03 January, 2026</date>
+                                                                    </a>
+                                                                </button>
+                                                            </h5>
+                                                        </div>
+                                                        <div class="card">
+                                                            <div class="card-header">
+                                                                <h5 class="mb-0">
+                                                                    <button class="btn btn-link collapsed">
+                                                                        <a target="_blank"
+                                                                            href="https://www.textilesresources.com/articles/global-textile-sector-2025-26-from-trade-turbulence-to-future-ready-supply-chains/">
+                                                                            Industry Story: Year-Ender Feature: Global
+                                                                            Textile Sector 2025–26: From Trade
+                                                                            Turbulence to Future-Ready Supply Chains
+                                                                            <br><i class="publication"></i>
+                                                                            <publication>Textile Resources</publication>
+                                                                            <medium>[Medium: Online ]</medium>
+                                                                            <date>January 30, 2026</date>
+                                                                        </a>
+                                                                    </button>
+                                                                </h5>
+                                                            </div>
+                                                        </div>
+                                                        <div class="card">
+                                                            <div class="card-header">
+                                                                <h5 class="mb-0">
+                                                                    <button class="btn btn-link collapsed">
+                                                                        <a target="_blank"
+                                                                            href="https://textilevaluechain.in/2025-in-perspective-a-stronger-cleaner-smarter-future-for-textiles">
+                                                                            2025 in Perspective: A Stronger, Cleaner,
+                                                                            Smarter Future for Textiles<br><i
+                                                                                class="publication"></i>
+                                                                            <publication>Textile Value Chain
+                                                                            </publication>
+                                                                            <medium>[Medium: Online]</medium>
+                                                                            <date>23 January, 2026</date>
+                                                                        </a>
+                                                                    </button>
+                                                                </h5>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+
+                                                    <!-- Press Release Listings -->
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- January 2026-->
                                     <!-- December 2025 -->
                                     <div class="card">
                                         <div class="card-header">
@@ -410,8 +666,9 @@ $annualyear = get_terms('annual-year'); //,$args);
                                                                 <button class="btn btn-link collapsed">
                                                                     <a target="_blank"
                                                                         href="https://www.ptinews.com/press-release/rswm-ends-the-year-with-multiple-accolades-wins-three-major-industry-honors-for-sustainability/3233476">
-                                                                        RSWM Ends the Year with Multiple Accolades: Wins Three Major Industry Honors for Sustainability<br><i
-                                                                            class="publication"></i>
+                                                                        RSWM Ends the Year with Multiple Accolades: Wins
+                                                                        Three Major Industry Honors for
+                                                                        Sustainability<br><i class="publication"></i>
                                                                         <publication>PTI</publication>
                                                                         <medium>[Medium: Print]</medium>
                                                                         <date>December 30, 2025</date>
@@ -426,9 +683,11 @@ $annualyear = get_terms('annual-year'); //,$args);
                                                                 <button class="btn btn-link collapsed">
                                                                     <a target="_blank"
                                                                         href="https://indiantextilejournal.com/pdf/Monthly-Edition/PDF-version/December-2025/index.html">
-                                                                        Authored Article by Mr. Rajeev Gupta: Traditional Practices for Sustainable Textiles<br><i
-                                                                            class="publication"></i>
-                                                                        <publication>Indian Textile Journal (ITJ), December 2025 Edition</publication>
+                                                                        Authored Article by Mr. Rajeev Gupta:
+                                                                        Traditional Practices for Sustainable
+                                                                        Textiles<br><i class="publication"></i>
+                                                                        <publication>Indian Textile Journal (ITJ),
+                                                                            December 2025 Edition</publication>
                                                                         <medium>[Medium: Online ]</medium>
                                                                         <date>16 December, 2025</date>
                                                                     </a>
@@ -441,9 +700,10 @@ $annualyear = get_terms('annual-year'); //,$args);
                                                                     <button class="btn btn-link collapsed">
                                                                         <a target="_blank"
                                                                             href="https://www.textilesresources.com/articles/global-textile-sector-2025-26-from-trade-turbulence-to-future-ready-supply-chains/">
-                                                                            Industry Story: Year-Ender Feature: Global Textile Sector 2025–26: From Trade Turbulence to Future-Ready Supply Chains
-                                                                            <br><i
-                                                                                class="publication"></i>
+                                                                            Industry Story: Year-Ender Feature: Global
+                                                                            Textile Sector 2025–26: From Trade
+                                                                            Turbulence to Future-Ready Supply Chains
+                                                                            <br><i class="publication"></i>
                                                                             <publication>Textile Resources</publication>
                                                                             <medium>[Medium: Online ]</medium>
                                                                             <date>December 30, 2025</date>
@@ -488,7 +748,8 @@ $annualyear = get_terms('annual-year'); //,$args);
                                                                     <a target="_blank"
                                                                         href="https://businessindia.co/magazine/corporate-report/rswml-weaves-a-new-growth-phase">
                                                                         RSWML weaves a new growth phase<br>
-                                                                        RSWM Ltd is actively putting up a more robust business model to expand its footprint<br><i
+                                                                        RSWM Ltd is actively putting up a more robust
+                                                                        business model to expand its footprint<br><i
                                                                             class="publication"></i>
                                                                         <publication>Business India</publication>
                                                                         <medium>[Medium: Online]</medium>
@@ -5142,6 +5403,7 @@ $annualyear = get_terms('annual-year'); //,$args);
                             <h2 class="widget-title">MEDIA COVERAGE<br><sub style="color: #d5b66a;">Online / Print
                                     Media</sub></h2>
                             <ul class="sidebar-category">
+                                <li class="active" style="text-transform:capitalize;"><a href="#2025">2026</a></li>
                                 <li class="active" style="text-transform:capitalize;"><a href="#2025">2025</a></li>
                                 <li class="active" style="text-transform:capitalize;"><a href="#2024">2024</a></li>
                             </ul>
